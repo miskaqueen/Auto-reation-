@@ -1,0 +1,20 @@
+API_ID = 25731948
+API_HASH = "dce5d7d2985386e130d5b6a498426aba"
+BOT_TOKEN = "8686125815:AAEluLT98wmMPIfimnTBrwathCK1qHlNMmo"
+
+REACTION_AI = {
+    "love": ["❤️", "😍"],
+    "miss": ["❤️"],
+    "haha": ["😂"],
+    "lol": ["😂"],
+    "funny": ["🤣"],
+    "sad": ["😢"],
+    "cry": ["😢"],
+    "angry": ["😡"],
+    "fight": ["😡"],
+    "success": ["🔥"],
+    "motivation": ["🔥", "💪"],
+    "attitude": ["😎"],
+    "cool": ["😎"],
+    "wow": ["😲"]
+}
